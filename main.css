@@ -545,4 +545,16 @@ textarea {
 .forgot {
   margin-top:-20px;
   text-align:right;
+
+}
+
+
+/*ARTICLE*/
+
+.wrapperarticle {
+  background-image: url(./img/manwalking.jpg);
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  position: relative;
 }
